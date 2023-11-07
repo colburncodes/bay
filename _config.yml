@@ -1,13 +1,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: colburn.
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Doc site all things AI, Tech, and my personal experiments.
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+url: "https://colburncodes.github.io" # the base hostname & protocol for the site
+google_analytics: ""
 
 header:
   pages:
@@ -20,25 +19,19 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
+      value: colburnsanders@gmail.com
       link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://twitter.com/whocolburn
+      username: "@whocolburn"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/colburn-sanders
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/colburncodes
     - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: https://dribbble.com/getcolburn
+
 
 # Build settings
 markdown: kramdown

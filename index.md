@@ -6,9 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+Hello! My name is Colburn Sanders. I grew up in North Carolina. I'm currently working in GovTech
+as a full stack engineer. And I help a handful of greenfield projects that I believe in, or that I'm 
+passionate about.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+Apart from working, I travel, run, spend time with family, and trying new foods.
 </p>
