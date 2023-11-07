@@ -20,7 +20,7 @@ footer:
   contact:
     - name: Email
       value: hello@whocolburn.com
-      link: mailto:yourmail@domain.com
+      link: mailto:hello@whocolburn.com
   follow:
     - name: Twitter
       link: https://twitter.com/whocolburn
