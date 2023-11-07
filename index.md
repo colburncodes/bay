@@ -6,8 +6,10 @@ profile_picture:
 ---
 
 <p>
-Hello! My name is <b>Colburn Sanders</b>. I grew up in North Carolina. Currently I'm working in GovTech
-as a full stack engineer <b><h2>I build systems that solve problems</h2></b> 
+Hello! My name is <b>Colburn</b>. I grew up in North Carolina. I'm currently working in GovTech
+as a full stack engineer with a background interest in cloud technologies, distributed systems, and web applications.
+<b><h2>I build systems that solve problems & building things that empower
+others to do the same.</h2></b>
 I specialize in creating software for clients ranging from individuals and small-businesses even
 large enterprise corporations.
 </p>

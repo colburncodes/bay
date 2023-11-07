@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: colburn.
+title: ://colburn.
 description: >- # this means to ignore newlines until "baseurl:"
   Doc site all things AI, Tech, and my personal experiments.
 baseurl: "/bay" # the subpath of the site
@@ -10,10 +10,10 @@ google_analytics: ""
 
 header:
   pages:
-    - name: Home
+    - name: home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: projects
+    - name: blog
 
 footer:
   show_powered_by: true
