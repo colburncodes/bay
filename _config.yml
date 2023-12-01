@@ -13,7 +13,7 @@ header:
     - name: home
       slug: /
     - name: projects
-    - name: blog
+    - name: Blog
 
 footer:
   show_powered_by: true
