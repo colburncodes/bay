@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Blog Archive
-slug: /blog
+permalink: /blog
 ---
 <br />

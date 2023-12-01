@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Projects
-slug: /projects
+permalink: /projects
 items:
   - title: My Interest 1
     image:
