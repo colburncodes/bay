@@ -13,7 +13,7 @@ header:
     - name: home
       slug: /
     - name: projects
-    - name: Blog
+    - name: blog
 
 footer:
   show_powered_by: true
@@ -32,11 +32,10 @@ footer:
     - name: Dribbble
       link: https://dribbble.com/getcolburn
 
-
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+  style: :compressed
 plugins:
   - jekyll-feed
 
