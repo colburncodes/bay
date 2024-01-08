@@ -4,8 +4,8 @@
 title: ://colburn.
 description: >- # this means to ignore newlines until "baseurl:"
   Doc site all things AI, Tech, and my personal experiments.
-baseurl: "/bay" # the subpath of the site
-url: "https://colburncodes.github.io" # the base hostname & protocol for the site
+baseurl: "" # the subpath of the site
+url: "https://whocolburn.com" #"https://colburncodes.github.io" # the base hostname & protocol for the site
 google_analytics: ""
 
 header:
