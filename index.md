@@ -6,10 +6,15 @@ profile_picture:
 ---
 
 <p>
-Hello! My name is <b>Colburn</b>. I grew up in North Carolina. I'm currently working in GovTech
-as a full stack engineer with a background interest in cloud technologies, distributed systems, and web applications.
+Hello, and welcome to my doc site. My name is <b>Colburn Sanders</b>. 
+I am a Software Engineer in St. Louis, MO. I have been programming professionally for more than 5 years, and I still love to code!
 </p>
-<h2><b>I build systems that solve problems & building things that empower
+
+<p>
+Currently, I am working as a Senior Software Engineer for New Balance where I work with payment processing, order management, and fraud validation.
+</p>
+
+<h2><b>I like to build systems that solve problems & building things that empower
 others to do the same.</b></h2>
 <p>
 I specialize in creating software for clients ranging from individuals and small-businesses even
