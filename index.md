@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hello, and welcome to my doc site. My name is <b>Colburn Sanders</b>. 
+Hi, Hello, and Welcome. My name is <b>Colburn Sanders</b>. 
 I am a Software Engineer in St. Louis, MO. I have been programming professionally for more than 5 years, and I hope I will inspire others to make their own creative corner!
 </p>
 
