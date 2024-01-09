@@ -10,7 +10,7 @@ Hi, Hello, and Welcome. My name is <b>Colburn Sanders</b>.
 I am a Software Engineer in St. Louis, MO. I have been programming professionally for more than 5 years, and I hope I will inspire others to make their own creative corner!
 </p>
 
-Currently, I am working as a Senior Software Engineer for New Balance
+Currently, I am working as a Senior Software Engineer for
 [New Balance](https://newbalance.com) where I work with payment processing, order management, and fraud validation.
 
 <h2><b>I like to build systems that solve problems & building things that empower
