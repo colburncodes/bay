@@ -13,12 +13,13 @@ I am a Software Engineer in St. Louis, MO. I have been programming professionall
 <h2><b>I like to build systems that solve problems & building things that empower
 others to do the same.</b></h2>
 
-Currently, I am working as a Senior Software Engineer for
-[New Balance](https://newbalance.com) where I work with payment processing, order management, and fraud validation.
+Currently, I am working as a Senior Software Engineer on the Checkout team at
+[New Balance](https://newbalance.com). My work revolves around optimizing the checkout order flow, enhancing performance,
+and ensuring smooth and efficient order management and export processes.
 
 <p>
-I specialize in creating software for clients ranging from individuals and small-businesses even
-large enterprise corporations.
+My expertise is in crafting seamless user experiences and implementing robust solutions to support
+high transaction volumes, making every customer's journey through checkout process a superior one.
 </p>
 
 <p>
