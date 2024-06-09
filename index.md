@@ -17,6 +17,6 @@ Currently, I work as a Senior Software Engineer at
 [New Balance](https://newbalance.com), focusing on optimizing the checkout order flow and ensuring the performance
 of our systems.
 <p>
-I also provide production support for order management and export. In my spare time, I enjoy working out
+In my spare time, I enjoy working out
 and spending time with my girls.
 </p>
