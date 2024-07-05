@@ -22,9 +22,6 @@ footer:
       value: hello@whocolburn.com
       link: mailto:hello@whocolburn.com
   follow:
-    - name: Twitter
-      link: https://twitter.com/whocolburn
-      username: "@whocolburn"
     - name: LinkedIn
       link: http://linkedin.com/in/colburn-sanders
     - name: GitHub
